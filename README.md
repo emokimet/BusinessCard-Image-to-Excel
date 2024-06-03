@@ -1,12 +1,12 @@
 # Business Card image to Excel
 A project which converts scanned business card images into structured Excel data for easy storage and organization.
 
-## Tool
-`!pip install !pip install pytesseract`
-`!sudo apt install tesseract-ocr`
-`!sudo apt install libtesseract-dev`
-`!pip install tesseract`
-`!pip install tesseract-ocr`
+## Install Tools
+`!pip install !pip install pytesseract<br>```
+`!sudo apt install tesseract-ocr<br>`
+`!sudo apt install libtesseract-dev<br>`
+`!pip install tesseract<br>`
+`!pip install tesseract-ocr<br>`
 
 
 ## Instruct
