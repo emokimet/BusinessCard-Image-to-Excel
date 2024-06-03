@@ -20,6 +20,7 @@ A project which converts scanned business card images into structured Excel data
 
 
 ##result
+
 ![Untitled](https://github.com/emokimet/BusinessCard-Image-to-Excel/assets/169335141/e5c15f2f-1f46-4838-9ae9-e673fe439af6)
 ![Uploading screen.png…]()
 
