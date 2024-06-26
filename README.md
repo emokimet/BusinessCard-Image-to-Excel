@@ -2,10 +2,10 @@
 Conver Images to Excel
 
 ## Tool
-`!pip install !pip install pytesseract`
-`!sudo apt install tesseract-ocr`
-`!sudo apt install libtesseract-dev`
-`!pip install tesseract`
+`!pip install !pip install pytesseract`  <br /> 
+`!sudo apt install tesseract-ocr` <br /> 
+`!sudo apt install libtesseract-dev` <br /> 
+`!pip install tesseract` <br /> 
 `!pip install tesseract-ocr`
 
 
